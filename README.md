@@ -1,6 +1,6 @@
 # groundmail-better-auth
 
-**Transactional email for [Better Auth](https://www.better-auth.com)** — verification, password reset, [magic link](https://www.better-auth.com/docs/plugins/magic-link), [email OTP](https://better-auth.com/docs/plugins/email-otp), and organization invites — delivered on [Groundmail](https://groundmail.dev).
+**Transactional email for [Better Auth](https://www.better-auth.com)** — verification, password reset, [magic link](https://www.better-auth.com/docs/plugins/magic-link), [email OTP](https://better-auth.com/docs/plugins/email-otp), and organization invites — delivered on [Groundmail](https://groundmail.dev?utm_source=github&utm_medium=readme&utm_campaign=groundmail-better-auth).
 
 Better Auth does not ship an email provider plugin. You supply callbacks. This package is those callbacks, wired to Groundmail.
 
@@ -45,7 +45,7 @@ export const auth = betterAuth({
 
 ## Docs
 
-https://docs.groundmail.dev/guides/better-auth
+https://docs.groundmail.dev/guides/better-auth?utm_source=github&utm_medium=readme&utm_campaign=groundmail-better-auth
 
 ## License
 
